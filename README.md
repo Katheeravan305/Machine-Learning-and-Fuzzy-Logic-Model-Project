@@ -27,7 +27,8 @@
 - To find the best parameters for each modal which are suitable for imbalance dataset. Then pick the best modal out of them. 
 
 
-## Screenshots of features in the app
+## Feature Selection
+In this experiment there are total of 23 features and 2126 CTG records. It is computationally expensive to build, train and test models with 23 features. Hence, to reduce the feature space we have performed feature selection to select relevant features in building the machine learning model. However, there are some data cleanings has been carried out before selecting the features.
 <ol> 
   <li>Multistep Login</li>
     <ul>
