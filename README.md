@@ -14,33 +14,18 @@
 
 <p>The above pair plot shows all the features available in this dataset. All these features are part of CTG readings. In this project, we were very interested in building a predictive modal for cardiotocography. Our goal was to make a modal that can classify fetal heart rate reading into three categories which are Normal, Suspect and Pathologic.</p>
 
-## Languages and Technologies Used
+## Aim
 
-<ol> 
-  <li>Languages</li>
-    <ul>
-      <li> Java </li>
-    </ul>
-  <li>Technologies</li>
-   <ul>
-      <li> Firebase </li>
-    </ul>
- </ol>
+<p>The above pair plot shows all the features available in this dataset. All these features are part of CTG readings. In this project, we were very interested in building a predictive modal for cardiotocography. Our goal was to make a modal that can classify fetal heart rate reading into three categories which are Normal, Suspect and Pathologic.</p>
  
  
-## Security and Reliability Features Implemented
-- Encryption and Decryption of Information
-- Backup and Recovery
-- Security PIN
-- Email Verification
-- Biometric Authentication
-- Multistep Login
-- Two factor authentication
-- Screenshot feature locked
-- Certification Pinning
-- Session Timeout
-- Captcha
-- Event Logging
+## Problem Definition
+- To reduce human interpretation error in CTG.
+- To build a cohesive computerised algorithm to interpret CTG readings with no human intervention.
+- To determine the best and optimal number of features to be used in the modal.
+- To choose the best modal for CTG reading interpretation.
+- To find the best parameters for each modal which are suitable for imbalance dataset. Then pick the best modal out of them. 
+
 
 ## Screenshots of features in the app
 <ol> 
