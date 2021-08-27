@@ -30,10 +30,9 @@
 ## Feature Selection
 In this experiment there are total of 23 features and 2126 CTG records. It is computationally expensive to build, train and test models with 23 features. Hence, to reduce the feature space we have performed feature selection to select relevant features in building the machine learning model. However, there are some data cleanings has been carried out before selecting the features.
 <ol> 
-  <li>Multistep Login</li>
+  <li>Data Cleaning</li>
     <ul>
-      <li> Email and password need to be entered in the different screens to reduce the tendency of brute force attack </li>
-      <li> The user will be blocked from login into the application,if the credentials entered is wrong for more than three times </li>
+      <li> Firstly, we have removed the columns that have least unique values. The reason why we do so is, because with least unique values the columns have, it is most probably not contributing much to predicting but just increase the feature space. Hence, we removed the DS, DP and NZeros.</li>
     </ul>
  </ol>
  <img src="https://github.com/Sharvin1106/Pass-Manager-CST235/blob/master/images/img4.jpg" />
