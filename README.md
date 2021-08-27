@@ -36,7 +36,7 @@ In this experiment there are total of 23 features and 2126 CTG records. It is co
     </ul>
  </ol>
  <img src="https://github.com/Katheeravan305/Machine-Learning-and-Fuzzy-Logic-Module/blob/main/images/2.0.png" />
- 
+ <p>Secondly, we have removed all the duplicated rows that are present in the data because it paves the chance for information leak where the same record may present in both train set and test set. We have discovered a total of 12 duplicated rows, and we removed all of them.</p>
  <ol> 
   <li>Biometric Authentication</li>
     <ul>
