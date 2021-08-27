@@ -35,6 +35,8 @@ In this experiment there are total of 23 features and 2126 CTG records. It is co
       <li> Firstly, we have removed the columns that have least unique values. The reason why we do so is, because with least unique values the columns have, it is most probably not contributing much to predicting but just increase the feature space. Hence, we removed the DS, DP and NZeros.</li>
          <img src="https://github.com/Katheeravan305/Machine-Learning-and-Fuzzy-Logic-Module/blob/main/images/2.0.png" />
       <li>Secondly, we have removed all the duplicated rows that are present in the data because it paves the chance for information leak where the same record may present in both train set and test set. We have discovered a total of 12 duplicated rows, and we removed all of them.</li>
+         <img src="https://github.com/Katheeravan305/Machine-Learning-and-Fuzzy-Logic-Module/blob/main/images/3.png" />
+       <li>Thirdly, we have imputed the missing data in the dataset instead of removing them, the reason why we do this is because every data matters. Hence, we perform KNNImputer to impute the missing values because it is a faster and efficient way to impute missing values instead of other statistical measures. Finally, we also removed the outliers that are present in the dataset or just introduced by previous imputation method as it can disrupt the prediction of model which will eventually lead to poorer results.</li>
     </ul>
  </ol>
  
