@@ -1,15 +1,11 @@
 # Machine-Learning-and-Fuzzy-Logic-Module
 
-<p align="center"><i>We are concern about your privacy and protection, and that is why we build Pass Manager</i></p>
+<p align="center"><i>We wanted to build a Machine Learning and Fuzzy Logic Module to classify fetal states.</i></p>
 
-<img src="https://github.com/Sharvin1106/Pass-Manager-CST235/blob/master/images/img1.jpg" 
-     width = 200px
-     height = 400px
-     />
 
 ## Introduction
 
-<p> A highly driven computer science student looking for an internship opportunity to apply full stack development and machine learning skills learned along with some relevant experiences and exposure. Smart and creative in turning ideas into solutions by merging full stack and machine learning together. Acquires a high team spirit and know the crooks in managing the people and organising the team. </p>
+<p> Cardiotocography (CTG) is a medical procedure that records the fetal heartbeat and uterine contractions during pregnancy. CTG reading will be very important in order to determine the condition of the baby and prevent any mortality whether to the baby or mother. The fetal heart rate is given more importance in the CTG because it reveals if the fetal is going through hypoxia or any distress which can lead to severe complications in delivery.  Hence, CTG comes in handy in conditions where the women who are going to labour is in high-risk category or if the fetal heartrate is too low, too high or abnormal. It is a very controversial and problematic task. It because there are so many things that we need to look out in a CTG to correctly understand the fetal heart rate activity in accordance to the uterine contraction. Errors and pitfalls can cause doctors to receive incorrect reading which can endanger the fetus.There are few things we need to give importance on when interpreting the CTG such as the fetal heart rate, number of accelerations in the fetal heart rate, uterine contraction per second, variability in fetal heart rate and decelerations. The fetal is in normal condition if the heartbeat rate is between 110-160 beats per minute, there are accelerations present which lasts long for more than 15 seconds with a rise of 15 beats per minute in the fetal heart rate and there is a variability in the fetal heart rate more than 5 beats per minute. However, there must not be any deceleration present in the fetal heart rate. If it happened so, then the fetal is categorized as in the pathological state. There are 5 requirements for a fetal’s conditions to be categorized as normal. If one of the conditions is not met, then fetal condition will be categorized as suspect. If more than 2 condition is not met, then fetal condition will be categorized as pathological.</p>
 
 ## Languages and Technologies Used
 
