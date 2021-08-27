@@ -35,7 +35,7 @@ In this experiment there are total of 23 features and 2126 CTG records. It is co
       <li> Firstly, we have removed the columns that have least unique values. The reason why we do so is, because with least unique values the columns have, it is most probably not contributing much to predicting but just increase the feature space. Hence, we removed the DS, DP and NZeros.</li>
     </ul>
  </ol>
- <img src="https://github.com/Sharvin1106/Pass-Manager-CST235/blob/master/images/img4.jpg" />
+ <img src="https://github.com/Katheeravan305/Machine-Learning-and-Fuzzy-Logic-Module/blob/main/images/2.0.png" />
  
  <ol> 
   <li>Biometric Authentication</li>
