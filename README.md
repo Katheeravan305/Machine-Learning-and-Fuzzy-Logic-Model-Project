@@ -28,5 +28,5 @@
 
  
 ## Machine Learning Modal VS Fuzzy Logic Modal
--A Machine Learning Modal and Fuzzy Logic Modal were build for this project. Both modals worked well but Machine Learning Modal is more dependable.
+A Machine Learning Modal and Fuzzy Logic Modal were build for this project. Both modals worked well but Machine Learning Modal is more dependable.
 
