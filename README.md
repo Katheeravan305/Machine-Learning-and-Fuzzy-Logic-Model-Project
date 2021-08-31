@@ -26,4 +26,7 @@
 - To choose the best modal for CTG reading interpretation.
 - To find the best parameters for each modal which are suitable for imbalance dataset. Then pick the best modal out of them. 
 
+ 
+## Machine Learning Modal VS Fuzzy Logic Modal
+-A Machine Learning Modal and Fuzzy Logic Modal were build for this project. Both modals worked well but Machine Learning Modal is more dependable.
 
